@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace BasketApi.Entities
 {
-    public class BasketItems
+    public class BasketCartItem
     {
         public int Quantity { get; set; }
         public string Color { get; set; }
